@@ -8,5 +8,5 @@
 - 💬 Ask me about SQL, anthing related on data.
 - 📫 How to reach me: prathiksha920@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Overthinker, which actually helps in solving problems on data.
+
 
